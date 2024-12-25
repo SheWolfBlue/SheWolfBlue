@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SheWolfBlue
-- 👀 I’m interested in Computer Science and cyber
-- 🌱 I’m currently learning CS50'S Introduction to Computer Science 
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning at WGU  
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Linkedin: www.linkedin.com/in/jaylajwilliams
 
